@@ -2,11 +2,11 @@ None
 Overworld
 Underground
 Underwater
-Mushrooms/Athletic
+Athletic
 Ghost House
 Pyramids
 Snow
-Lava
+Volcano
 Tower
 Castle
 Airship
@@ -17,12 +17,12 @@ Castle Boss
 Toad House
 Airship Boss
 Forest
-Enemy Ambush
+Enemy Battle
 Beach
 Lava Underground
 Peach's Castle
-Credits Jazz
+Credits Theme
 Airship Drums
 Bowser
-Mega Bowser
-Epilogue
+Captain Bowser
+Intro
